@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<opml version="1.0">
+ <head>
+  <title>OPML exported from Outlook</title>
+  <dateCreated>Mon, 15 Sep 2014 09:52:31 +0400</dateCreated>
+  <dateModified>Mon, 15 Sep 2014 09:52:31 +0400</dateModified>
+ </head>
+ <body>
+  <outline text="The Netflix Tech Blog" type="rss"
+  xmlUrl="http://techblog.netflix.com/feeds/posts/default"/>
+  <outline text="eBay Tech Blog" type="rss"
+  xmlUrl="http://www.ebaytechblog.com/feed/"/>
+  <outline text="Analytics from SAP" type="rss"
+  xmlUrl="http://blogs.sap.com/analytics/feed/"/>
+  <outline text="Hortonworks" type="rss"
+  xmlUrl="http://feeds.feedburner.com/hortonworks/feed"/>
+  <outline text="Cloudera VISION" type="rss"
+  xmlUrl="http://vision.cloudera.com/feed/"/>
+  <outline text="Actian – Take Action on Big Data" type="rss"
+  xmlUrl="http://www.actian.com/feed/?post_type=blog"/>
+  <outline text="DBMS&#160;2 : DataBase Management System Services" type="rss"
+  xmlUrl="http://feeds.feedburner.com/dbms2/feed"/>
+  <outline text="IBM Big Data &amp; Analytics Hub - All Content" type="rss"
+  xmlUrl="http://feeds.feedburner.com/ibm-big-data-hub"/>
+  <outline text="LinkedIn Engineering - Blog" type="rss"
+  xmlUrl="http://engineering.linkedin.com/taxonomy/term/1/feed"/>
+  <outline text="Pivotal P.O.V. » Channels » Big Data" type="rss"
+  xmlUrl="http://blog.pivotal.io/feed?channel=big-data-pivotal"/>
+  <outline text="AWS Big Data Blog" type="rss"
+  xmlUrl="https://blogs.aws.amazon.com/bigdata/blog/feed/recentPosts.rss"/>
+  <outline text="Google Developers Blog" type="rss"
+  xmlUrl="http://feeds.feedburner.com/GDBcode"/>
+  <outline text="Teradata Blogs Feed" type="rss"
+  xmlUrl="http://blogs.teradata.com/rss/"/>
+  <outline text="Datameer Blog" type="rss"
+  xmlUrl="http://www.datameer.com/blog/rss"/>
+  <outline text="Axeldata Systems" type="rss"
+  xmlUrl="http://www.axeldata.com/content/feed/"/>
+  <outline text="Informatica Perspectives" type="rss"
+  xmlUrl="http://feeds.feedburner.com/InformaticaPerspectives"/>
+  <outline text="MapR" type="rss" xmlUrl="https://www.mapr.com/rss.xml"/>
+  <outline text="Connecting Hadoop with Oracle " type="rss"
+  xmlUrl="http://blogs.oracle.com/bigdataconnectors/feed/entries/rss"/>
+  <outline text="Information Faster Blog articles" type="rss"
+  xmlUrl="http://h30499.www3.hp.com/hpeb/rss/board?board.id=sws-274"/>
+  <outline text="Airbnb Engineering" type="rss"
+  xmlUrl="http://nerds.airbnb.com/feed/"/>
+  <outline text="Dropbox Tech Blog" type="rss"
+  xmlUrl="https://tech.dropbox.com/feed/"/>
+  <outline text="SAS Blogs » RSS" type="rss"
+  xmlUrl="http://feeds.feedburner.com/SasBlogs"/>
+  <outline text="Making Pinterest" type="rss"
+  xmlUrl="http://engineering.pinterest.com/rss"/>
+  <outline text="Google Research Blog" type="rss"
+  xmlUrl="http://feeds.feedburner.com/blogspot/gJZg"/>
+  <outline text="Cloudera Developer Blog" type="rss"
+  xmlUrl="http://blog.cloudera.com/feed/"/>
+  <outline text="Main Blog" type="rss" xmlUrl="http://blog.sqrrl.com/rss.xml"/>
+  <outline text="DataStax » Blog Post – Corporate" type="rss"
+  xmlUrl="http://feeds.feedburner.com/datastax"/>
+  <outline text="The MongoDB Blog" type="rss"
+  xmlUrl="http://blog.mongodb.org/rss"/>
+ </body>
+</opml>

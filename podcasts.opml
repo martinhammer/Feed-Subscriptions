@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no' ?>
+<opml version="2.0">
+<head><title>AntennaPod Subscriptions</title></head>
+<body>
+<outline text="5 live's Football Daily" title="5 live's Football Daily" type="rss" xmlUrl="http://downloads.bbc.co.uk/podcasts/fivelive/5lfd/rss.xml" htmlUrl="http://www.bbc.co.uk/programmes/b0070hx6" />
+<outline text="Analysis" title="Analysis" type="rss" xmlUrl="http://downloads.bbc.co.uk/podcasts/radio4/analysis/rss.xml" htmlUrl="http://www.bbc.co.uk/programmes/b006r4vz" />
+<outline text="BBC Inside Science" title="BBC Inside Science" type="rss" xmlUrl="http://downloads.bbc.co.uk/podcasts/radio4/inscience/rss.xml" htmlUrl="http://www.bbc.co.uk/programmes/b036f7w2" />
+<outline text="EconTalk" title="EconTalk" type="rss" xmlUrl="http://files.libertyfund.org/econtalk/EconTalk.xml" htmlUrl="http://www.EconTalk.org" />
+<outline text="File on 4" title="File on 4" type="rss" xmlUrl="http://downloads.bbc.co.uk/podcasts/radio4/fileon4/rss.xml" htmlUrl="http://www.bbc.co.uk/programmes/b006th08" />
+<outline text="Football Weekly" title="Football Weekly" type="rss" xmlUrl="http://www.theguardian.com/football/series/footballweekly/podcast.xml" htmlUrl="http://www.theguardian.com" />
+<outline text="Friday Night Comedy from BBC Radio 4" title="Friday Night Comedy from BBC Radio 4" type="rss" xmlUrl="http://downloads.bbc.co.uk/podcasts/radio4/fricomedy/rss.xml" htmlUrl="http://www.bbc.co.uk/radio4/programmes/genres/comedy/satire/" />
+<outline text="Frontiers" title="Frontiers" type="rss" xmlUrl="http://downloads.bbc.co.uk/podcasts/radio4/frontiers/rss.xml" htmlUrl="http://www.bbc.co.uk/programmes/b006qy5p" />
+<outline text="FT Connected Business" title="FT Connected Business" type="rss" xmlUrl="http://podcast.ft.com/rss/25" htmlUrl="http://podcast.ft.com/index.php?sid=25" />
+<outline text="FT Money Show" title="FT Money Show" type="rss" xmlUrl="http://podcast.ft.com/rss/22/" htmlUrl="http://podcast.ft.com/index.php?sid=22" />
+<outline text="Great Lives" title="Great Lives" type="rss" xmlUrl="http://downloads.bbc.co.uk/podcasts/radio4/greatlives/rss.xml" htmlUrl="http://www.bbc.co.uk/radio4/greatlives" />
+<outline text="In Our Time With Melvyn Bragg" title="In Our Time With Melvyn Bragg" type="rss" xmlUrl="http://downloads.bbc.co.uk/podcasts/radio4/iot/rss.xml" htmlUrl="http://www.bbc.co.uk/programmes/b006qykl" />
+<outline text="Inside Chelsea FC" title="Inside Chelsea FC" type="rss" xmlUrl="http://downloads.bbc.co.uk/podcasts/london/chelsea/rss.xml" htmlUrl="http://www.bbc.co.uk/london/sport" />
+<outline text="Moral Maze" title="Moral Maze" type="rss" xmlUrl="http://downloads.bbc.co.uk/podcasts/radio4/moralmaze/rss.xml" htmlUrl="http://www.bbc.co.uk/programmes/b006qk11" />
+<outline text="More or Less: Behind the Stats" title="More or Less: Behind the Stats" type="rss" xmlUrl="http://downloads.bbc.co.uk/podcasts/radio4/moreorless/rss.xml" htmlUrl="http://www.bbc.co.uk/programmes/b006qshd" />
+<outline text="PhysicsCentral: Podcasts" title="PhysicsCentral: Podcasts" type="rss" xmlUrl="http://www.physicscentral.com/about/feed/podcasts.cfm?outputXML" htmlUrl="http://www.physicscentral.com" />
+<outline text="Premier League" title="Premier League" type="rss" xmlUrl="https://audioboo.fm/channels/1609113.rss" htmlUrl="https://audioboom.com/channel/premierleague" />
+<outline text="Radiolab from WNYC" title="Radiolab from WNYC" type="rss" xmlUrl="http://feeds.wnyc.org/radiolab?format=xml" htmlUrl="http://www.radiolab.org/series/podcasts/" />
+<outline text="Science Weekly" title="Science Weekly" type="rss" xmlUrl="http://www.guardian.co.uk/science/series/science/podcast.xml" htmlUrl="http://www.theguardian.com" />
+<outline text="Seven Ages of Science" title="Seven Ages of Science" type="rss" xmlUrl="http://downloads.bbc.co.uk/podcasts/radio4/seven/rss.xml" htmlUrl="http://www.bbc.co.uk/programmes/b007xbtd" />
+<outline text="Slate's Stranger Than Fiction" title="Slate's Stranger Than Fiction" type="rss" xmlUrl="http://feeds.feedburner.com/SlateStrangerThanFiction" htmlUrl="http://www.slate.com/podcasts" />
+<outline text="Sunday Supplement - Sky Sports" title="Sunday Supplement - Sky Sports" type="rss" xmlUrl="http://podcasts.skysports.com/podcasts/sundaysupplement/sundaysupplement.xml" htmlUrl="http://www.skysports.com" />
+<outline text="Telegram" title="Telegram" type="rss" xmlUrl="https://audioboo.fm/channels/1195483.rss" htmlUrl="https://audioboom.com/channel/telegram" />
+<outline text="The Infinite Monkey Cage" title="The Infinite Monkey Cage" type="rss" xmlUrl="http://downloads.bbc.co.uk/podcasts/radio4/timc/rss.xml" htmlUrl="http://www.bbc.co.uk/programmes/b00snr0w " />
+<outline text="The Long View with Jonathan Freedland" title="The Long View with Jonathan Freedland" type="rss" xmlUrl="http://downloads.bbc.co.uk/podcasts/radio4/longview/rss.xml" htmlUrl="http://www.bbc.co.uk/programmes/b006s7d6" />
+<outline text="The Report" title="The Report" type="rss" xmlUrl="http://downloads.bbc.co.uk/podcasts/radio4/r4report/rss.xml" htmlUrl="http://www.bbc.co.uk/programmes/b00jkr1q" />
+<outline text="The Spectator Podcast — The View from 22" title="The Spectator Podcast — The View from 22" type="rss" xmlUrl="http://feeds.feedburner.com/tvf22" htmlUrl="http://www.spectator.co.uk/podcast" />
+<outline text="Tim Harford: Pop-Up Ideas" title="Tim Harford: Pop-Up Ideas" type="rss" xmlUrl="http://downloads.bbc.co.uk/podcasts/radio4/thpop/rss.xml" htmlUrl="http://www.bbc.co.uk/programmes/b01q1mbn" />
+<outline text="UK Confidential" title="UK Confidential" type="rss" xmlUrl="http://downloads.bbc.co.uk/podcasts/radio4/ukconfidential/rss.xml" htmlUrl="http://www.bbc.co.uk/programmes/b00xj3rw" />
+<outline text="What the Papers Say" title="What the Papers Say" type="rss" xmlUrl="http://downloads.bbc.co.uk/podcasts/radio4/wtps/rss.xml" htmlUrl="http://www.bbc.co.uk/programmes/b00sgy8c" />
+<outline text="World Cup Football Daily" title="World Cup Football Daily" type="rss" xmlUrl="http://www.theguardian.com/football/series/footballweekly/podcast.xml" htmlUrl="http://www.theguardian.com" />
+<outline text="World Weekly with Gideon Rachman" title="World Weekly with Gideon Rachman" type="rss" xmlUrl="http://podcast.ft.com/rss/45" htmlUrl="http://podcast.ft.com/index.php?sid=45" />
+</body>
+</opml>

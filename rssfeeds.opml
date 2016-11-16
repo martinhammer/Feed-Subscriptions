@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no' ?>
+<opml version="2.0">
+	<head>
+		<title>subscriptions</title>
+	</head>
+	<body>
+		<outline text="football" title="football">
+			<outline text="guardian.co.uk | Chelsea" title="guardian.co.uk | Chelsea" type="rss" xmlUrl="http://www.guardian.co.uk/football/chelsea/rss"/>
+			<outline text="Rumour Mill" title="Rumour Mill" type="rss" xmlUrl="http://www.guardian.co.uk/football/series/rumourmill/rss"/>
+			<outline text="The Fiver" title="The Fiver" type="rss" xmlUrl="http://www.guardian.co.uk/football/series/thefiver/rss"/>
+			<outline htmlUrl="http://weaintgotnohistory.sbnation.com/" text="We Ain't Got No History" title="We Ain't Got No History" type="rss" xmlUrl="http://weaintgotnohistory.sbnation.com/rss/current"/>
+		</outline>
+		<outline text="techie" title="techie">
+			<outline htmlUrl="http://www.actian.com" text="Actian – Take Action on Big Data" title="Actian – Take Action on Big Data" type="rss" xmlUrl="http://www.actian.com/feed/?post_type=blog"/>
+			<outline htmlUrl="http://nerds.airbnb.com" text="Airbnb Engineering" title="Airbnb Engineering" type="rss" xmlUrl="http://nerds.airbnb.com/feed/"/>
+			<outline htmlUrl="https://aws.amazon.com/blogs/big-data/" text="AWS Big Data Blog" title="AWS Big Data Blog" type="rss" xmlUrl="https://blogs.aws.amazon.com/bigdata/blog/feed/recentPosts.rss"/>
+			<outline htmlUrl="http://blog.cloudera.com" text="Cloudera Developer Blog" title="Cloudera Developer Blog" type="rss" xmlUrl="http://blog.cloudera.com/feed/"/>
+			<outline htmlUrl="http://vision.cloudera.com" text="Cloudera VISION" title="Cloudera VISION" type="rss" xmlUrl="http://vision.cloudera.com/feed/"/>
+			<outline htmlUrl="https://blogs.oracle.com/bigdataconnectors/" text="Connecting Hadoop with Oracle" title="Connecting Hadoop with Oracle" type="rss" xmlUrl="http://blogs.oracle.com/bigdataconnectors/feed/entries/rss"/>
+			<outline htmlUrl="https://databricks.com" text="Databricks » Blog" title="Databricks » Blog" type="rss" xmlUrl="https://databricks.com/blog/feed"/>
+			<outline text="Datameer Blog" title="Datameer Blog" type="rss" xmlUrl="http://www.datameer.com/blog/rss"/>
+			<outline htmlUrl="http://www.datastax.com" text="DataStax » Blog Post – Corporate" title="DataStax » Blog Post – Corporate" type="rss" xmlUrl="http://feeds.feedburner.com/datastax"/>
+			<outline htmlUrl="http://www.dbms2.com" text="DBMS 2 : DataBase Management System Services" title="DBMS 2 : DataBase Management System Services" type="rss" xmlUrl="http://feeds.feedburner.com/dbms2/feed"/>
+			<outline text="Dropbox Tech Blog" title="Dropbox Tech Blog" type="rss" xmlUrl="https://tech.dropbox.com/feed/"/>
+			<outline htmlUrl="http://www.ebaytechblog.com" text="eBay Tech Blog" title="eBay Tech Blog" type="rss" xmlUrl="http://www.ebaytechblog.com/feed/"/>
+			<outline text="Google Developers Blog" title="Google Developers Blog" type="rss" xmlUrl="http://feeds.feedburner.com/GDBcode"/>
+			<outline text="Google Research Blog" title="Google Research Blog" type="rss" xmlUrl="http://feeds.feedburner.com/blogspot/gJZg"/>
+			<outline htmlUrl="http://hortonworks.com" text="Hortonworks" title="Hortonworks" type="rss" xmlUrl="http://feeds.feedburner.com/hortonworks/feed"/>
+			<outline htmlUrl="http://www.ibmbigdatahub.com/rss.xml" text="IBM Big Data &amp; Analytics Hub - All Content" title="IBM Big Data &amp; Analytics Hub - All Content" type="rss" xmlUrl="http://feeds.feedburner.com/ibm-big-data-hub"/>
+			<outline htmlUrl="http://blogs.informatica.com" text="Informatica Perspectives" title="Informatica Perspectives" type="rss" xmlUrl="http://feeds.feedburner.com/InformaticaPerspectives"/>
+			<outline htmlUrl="http://engineering.linkedin.com/blog" text="LinkedIn Engineering - Blog" title="LinkedIn Engineering - Blog" type="rss" xmlUrl="http://engineering.linkedin.com/taxonomy/term/1/feed"/>
+			<outline htmlUrl="http://engineering.pinterest.com/" text="Making Pinterest" title="Making Pinterest" type="rss" xmlUrl="http://engineering.pinterest.com/rss"/>
+			<outline htmlUrl="https://www.mapr.com" text="MapR" title="MapR" type="rss" xmlUrl="https://www.mapr.com/rss.xml"/>
+			<outline text="Pivotal P.O.V. » Channels » Big Data" title="Pivotal P.O.V. » Channels » Big Data" type="rss" xmlUrl="http://blog.pivotal.io/feed?channel=big-data-pivotal"/>
+			<outline htmlUrl="http://blogs.sas.com/content/network-rss?feed=networkrss" text="SAS Blogs » RSS" title="SAS Blogs » RSS" type="rss" xmlUrl="http://feeds.feedburner.com/SasBlogs"/>
+			<outline text="Teradata Blogs Feed" title="Teradata Blogs Feed" type="rss" xmlUrl="http://blogs.teradata.com/rss/"/>
+			<outline htmlUrl="http://blog.mongodb.org/" text="The MongoDB Blog" title="The MongoDB Blog" type="rss" xmlUrl="http://blog.mongodb.org/rss"/>
+			<outline text="The Netflix Tech Blog" title="The Netflix Tech Blog" type="rss" xmlUrl="http://techblog.netflix.com/feeds/posts/default"/>
+		</outline>
+		<outline text="other" title="other">
+			<outline text="Strange Maps | Big Think" title="Strange Maps | Big Think" type="rss" xmlUrl="http://feeds.feedburner.com/bigthink/blogs/strange-maps"/>
+			<outline htmlUrl="http://crankyflier.com" text="The Cranky Flier" title="The Cranky Flier" type="rss" xmlUrl="http://feeds.crankyflier.com/crankyflier"/>
+		</outline>
+		<outline text="games" title="games">
+			<outline text="Cubus Games" title="Cubus Games" type="rss" xmlUrl="http://www.cubusgames.com/blog?format=RSS"/>
+			<outline htmlUrl="http://www.bay12games.com/dwarves/index.html" text="Dwarf Fortress Development Log" title="Dwarf Fortress Development Log" type="rss" xmlUrl="http://www.bay12games.com/dwarves/dev_now.rss"/>
+			<outline htmlUrl="http://www.bay12games.com/dwarves/index.html" text="Dwarf Fortress Release Log" title="Dwarf Fortress Release Log" type="rss" xmlUrl="http://www.bay12games.com/dwarves/dev_release.rss"/>
+			<outline htmlUrl="http://www.inklestudios.com/blog" text="inkle" title="inkle" type="rss" xmlUrl="http://www.inklestudios.com/feed.xml"/>
+			<outline htmlUrl="http://tinmangames.com.au/blog" text="Tin Man Games" title="Tin Man Games" type="rss" xmlUrl="http://tinmangames.com.au/blog/?feed=rss2"/>
+		</outline>
+	</body>
+</opml>
